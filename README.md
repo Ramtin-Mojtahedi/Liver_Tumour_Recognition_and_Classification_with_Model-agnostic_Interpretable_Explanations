@@ -20,9 +20,6 @@ This repository contains the necessary code and resources to train a model using
 
 Visual results can be seen in the figures below:
 
-### Confusion Matrix
-![Confusion Matrix](https://i.imgur.com/drLE7ch.png)
-
 ### Loss Evaluation
 ![Loss Evaluation](https://i.imgur.com/Ukn0y87.png)
 
