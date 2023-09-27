@@ -20,9 +20,15 @@ This repository contains the necessary code and resources to train a model using
 
 Visual results can be seen in the figures below:
 
-![Result Image 1](https://drive.google.com/uc?export=view&id=1dbQhprSG3qXe-Y7TAkmyZ_CpzUmW9891)
-![Result Image 2](https://drive.google.com/uc?export=view&id=1Qnrq8JMEEWnqdD_KJJx98v74e8n9MJLW)
-![Result Image 3](https://drive.google.com/uc?export=view&id=1Efnybmb1wJDkvINN5tSr_Btng4MEcvY1)
+### Confusion Matrix
+![Confusion Matrix](https://i.imgur.com/drLE7ch.png)
+
+### Loss Evaluation
+![Loss Evaluation](https://i.imgur.com/Ukn0y87.png)
+
+### Accuracy
+![Accuracy](https://i.imgur.com/Ukn0y87.png)  <!-- This is the same link as Loss Evaluation. Make sure to update if there's a different image for accuracy. -->
+
 
 ## Acknowledgments
 
