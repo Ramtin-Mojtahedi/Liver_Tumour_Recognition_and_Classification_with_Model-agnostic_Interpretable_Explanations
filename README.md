@@ -24,7 +24,7 @@ Visual results can be seen in the figures below:
 ![Loss Evaluation](https://i.imgur.com/Ukn0y87.png)
 
 ### Accuracy
-![Accuracy](https://i.imgur.com/Ukn0y87.png)  <!-- This is the same link as Loss Evaluation. Make sure to update if there's a different image for accuracy. -->
+![Accuracy](https://imgur.com/4aE8Qpz) 
 
 
 ## Acknowledgments
